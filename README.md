@@ -20,7 +20,7 @@
 ⚡️ Optimized with Parcel  
 ⚡️ Well organized documentation
 
-To view the demo: **[click here](https://portfolio.netlify.app/)**
+To view the demo: **[click here](https://vijaynew-portfolio.netlify.app/)**
 
 ---
 
