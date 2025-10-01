@@ -1,9 +1,9 @@
-# Simplefolio ⚡️ [![GitHub](https://img.shields.io/github/license/cobiwave/simplefolio?color=blue)](https://github.com/cobiwave/simplefolio/blob/master/LICENSE.md) ![GitHub stars](https://img.shields.io/github/stars/cobiwave/simplefolio) ![GitHub forks](https://img.shields.io/github/forks/cobiwave/simplefolio)
+# portfolidfolio ⚡️ [![GitHub](https://img.shields.io/github/license/cobiwave/simplefolio?color=blue)](https://github.com/vijayrajupokala/portfolio/blob/master/LICENSE.md) ![GitHub stars](https://img.shields.io/github/stars/portfolio/portfolio) ![GitHub forks](https://img.shields.io/github/forks/vijayrajupokala/portfolio)
 
 ## A minimal portfolio template for Developers!
 
 <h2 align="center">
-  <img src="https://github.com/cobiwave/gatsby-simplefolio/blob/master/examples/example.gif" alt="Simplefolio" width="600px" />
+  <img src="https://github.com/vijayrajupokala/gatsby-portfolio/blob/master/examples/example.gif" alt="portfolio" width="600px" />
   <br>
 </h2>
 
@@ -17,7 +17,7 @@
 ⚡️ Optimized with Parcel\
 ⚡️ Well organized documentation
 
-To view the demo: **[click here](https://the-simplefolio.netlify.app/)**
+To view the demo: **[click here](https://the-portfolio.netlify.app/)**
 
 ---
 
@@ -55,7 +55,7 @@ From your command line, first clone Simplefolio:
 
 ```bash
 # Clone the repository
-$ git clone https://github.com/cobiwave/simplefolio
+$ git clone https://github.com/vijayrajupokala/portfolio
 
 # Move into the repository
 $ cd simplefolio
@@ -101,7 +101,7 @@ $ sudo npm install --unsafe-perm=true --allow-root
 Once your server has started, go to this url `http://localhost:1234/` to see the portfolio locally. It should look like the below screenshot.
 
 <h2 align="center">
-  <img src="https://github.com/cobiwave/gatsby-simplefolio/blob/master/examples/example.png" alt="Simplefolio" width="100%">
+  <img src="https://github.com/vijayrajupokala/portfolio/blob/master/examples/example.png" alt="portfolio" width="100%">
 </h2>
 
 ---
@@ -122,9 +122,9 @@ Go to `/src/index.html` and put your information, there are 5 sections:
 <section id="hero" class="jumbotron">
   <div class="container">
     <h1 class="hero-title load-hidden">
-      Hi, my name is <span class="text-color-main">Your Name</span>
+      Hi, my name is <span class="text-color-main">Vijay Raju Pokala</span>
       <br />
-      I'm the Unknown Developer.
+      I'm the full stack Developer.
     </h1>
     <p class="hero-cta load-hidden">
       <a rel="noreferrer" class="cta-btn cta-btn--hero" href="#about">
@@ -330,11 +330,6 @@ Once you finish your setup. You need to put your website online!
 
 I highly recommend to use [Netlify](https://netlify.com) because it is super easy.
 
-## Others versions 👥
-
-[Gatsby Simplefolio](https://github.com/cobiwave/gatsby-simplefolio) by [Jacobo Martinez](https://github.com/cobiwave)\
-[Ember.js Simplefolio](https://github.com/sernadesigns/simplefolio-ember) by [Michael Serna](https://github.com/sernadesigns)
-
 ## Technologies used 🛠️
 
 - [Parcel](https://parceljs.org/) - Bundler
@@ -342,10 +337,6 @@ I highly recommend to use [Netlify](https://netlify.com) because it is super eas
 - [Sass](https://sass-lang.com/documentation) - CSS extension language
 - [ScrollReveal.js](https://scrollrevealjs.org/) - JavaScript library
 - [Tilt.js](https://gijsroge.github.io/tilt.js/) - JavaScript tiny parallax library
-
-## Authors
-
-- **Jacobo Martinez** - [https://github.com/cobiwave](https://github.com/cobiwave)
 
 ## Status
 
@@ -357,4 +348,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments 🎁
 
-I was motivated to create this project because I wanted to contribute on something useful for the dev community, thanks to [ZTM Community](https://github.com/zero-to-mastery) and [Andrei](https://github.com/aneagoie)
+I was motivated to create this project because I wanted to contribute on something useful for the dev community.
